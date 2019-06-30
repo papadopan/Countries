@@ -9,7 +9,6 @@ const SearchWrapper = styled.div`
     height: 10rem;
     width: 100%;
     background: var(--color-secondary);
-
 `;
 
 const StyledForm = styled(Form)`
