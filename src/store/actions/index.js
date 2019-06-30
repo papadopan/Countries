@@ -8,7 +8,7 @@ import axios from 'axios';
  export const ERROR = 'ERROR';
  export const UPDATE = 'UPDATE';
  export const SELECTED_COUNTRY = 'SELECTED_COUNTRY';
- export const ANTONIOS = 'ANTONIOS';
+ export const ANTONIOS = 'VAGGELIS';
 
  /**
   * action functions
