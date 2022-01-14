@@ -8,6 +8,7 @@ import Present from './containers/Present/Present';
 
 class App extends Component {
     render() {
+        console.log("----")
         return ( <
             Layout >
             <
